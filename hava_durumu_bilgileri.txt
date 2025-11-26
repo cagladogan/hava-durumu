@@ -1,0 +1,48 @@
+09.05.2025 13:01 - Afyonkarahisar : 24 °C, az bulutlu
+09.05.2025 13:01 - Amasya : 26 °C, açýk
+09.05.2025 13:04 - Ýzmir : 29 °C, açýk
+09.05.2025 13:07 - Ýstanbul : 23 °C, açýk
+09.05.2025 13:07 - Gümüþhane : 18 °C, açýk
+11.05.2025 22:47 - Diyarbakýr : 24 °C, hafif yaðmur
+11.05.2025 23:55 - Burdur : 14 °C, az bulutlu
+12.05.2025 00:10 - Edirne : 12 °C, kapalý
+12.05.2025 00:10 - Rize : 8 °C, kapalý
+12.05.2025 00:13 - Ardahan : 8 °C, kapalý
+12.05.2025 00:14 - Aksaray : 12 °C, parçalý az bulutlu
+12.05.2025 00:14 - Bartýn : 8 °C, parçalý bulutlu
+12.05.2025 00:14 - Amasya : 12 °C, kapalý
+12.05.2025 00:14 - Amasya : 12 °C, kapalý
+12.05.2025 00:14 - Afyonkarahisar : 11 °C, parçalý bulutlu
+12.05.2025 00:15 - Aksaray : 12 °C, parçalý az bulutlu
+12.05.2025 00:15 - Bolu : 10 °C, parçalý bulutlu
+12.05.2025 00:15 - Aksaray : 12 °C, parçalý az bulutlu
+12.05.2025 00:15 - Ardahan : 8 °C, kapalý
+12.05.2025 00:16 - Bilecik : 8 °C, kapalý
+12.05.2025 00:16 - Edirne : 12 °C, kapalý
+12.05.2025 00:16 - Balýkesir Province : 10 °C, açýk
+12.05.2025 00:16 - Düzce : 11 °C, kapalý
+12.05.2025 00:16 - Kocaeli : 4 °C, parçalý bulutlu
+12.05.2025 00:16 - Sinop : 9 °C, kapalý
+12.05.2025 00:17 - Aksaray : 12 °C, parçalý az bulutlu
+12.05.2025 00:17 - Bilecik : 8 °C, kapalý
+12.05.2025 00:17 - Gümüþhane : 9 °C, kapalý
+12.05.2025 00:18 - Bartýn : 8 °C, parçalý bulutlu
+12.05.2025 00:18 - Erzincan : 12 °C, parçalý bulutlu
+12.05.2025 00:18 - Manisa : 12 °C, parçalý bulutlu
+12.05.2025 00:18 - Siirt : 17 °C, hafif yaðmur
+12.05.2025 08:59 - Elâzýð : 20 °C, parçalý az bulutlu
+12.05.2025 09:04 - Bolu : 11 °C, kapalý
+12.05.2025 09:14 - Kars : 13 °C, parçalý bulutlu
+12.05.2025 09:22 - Kars : 13 °C, parçalý bulutlu
+12.05.2025 09:22 - Manisa : 12 °C, parçalý bulutlu
+12.05.2025 09:29 - Eskiþehir : 13 °C, açýk
+12.05.2025 09:35 - Bingöl : 16 °C, kapalý
+12.05.2025 09:37 - Adýyaman : 24 °C, parçalý bulutlu
+12.05.2025 09:37 - Ankara : 12 °C, parçalý bulutlu
+12.05.2025 09:37 - Bingöl : 16 °C, kapalý
+12.05.2025 09:37 - Edirne : 16 °C, kapalý
+12.05.2025 10:31 - Ardahan : 16 °C, kapalý
+12.05.2025 10:31 - Hakkâri : 12 °C, kýsa süreli hafif yoðunluklu yaðmur
+12.05.2025 10:32 - Adýyaman : 25 °C, hafif yaðmur
+12.05.2025 10:32 - Kýrklareli : 15 °C, kapalý
+26.11.2025 21:50 - Kahramanmaraþ : 2 °C, açýk
